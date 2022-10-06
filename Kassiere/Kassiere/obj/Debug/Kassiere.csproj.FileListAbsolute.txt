@@ -1,0 +1,16 @@
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\bin\Debug\Kassiere.exe.config
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\bin\Debug\Kassiere.exe
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\bin\Debug\Kassiere.pdb
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.csproj.AssemblyReference.cache
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.csproj.SuggestedBindingRedirects.cache
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.Form1.resources
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.Properties.Resources.resources
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.csproj.GenerateResource.cache
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.csproj.CoreCompileInputs.cache
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.exe
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.pdb
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.Form2.resources
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.Form3.resources
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\bin\Debug\aa-DJ\Kassiere.resources.dll
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\Kassiere.Form3.aa-DJ.resources
+D:\TUGAS SEKOLAH\Semester 4\Pattern Software\Code Project\Kassiere\Kassiere\obj\Debug\aa-DJ\Kassiere.resources.dll
